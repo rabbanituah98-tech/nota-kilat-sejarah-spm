@@ -1,0 +1,33 @@
+{
+  "name": "Nota Last Minit Sejarah SPM",
+  "short_name": "Sejarah SPM",
+  "description": "Nota last minit Sejarah SPM Tingkatan 4 dan 5 dengan kad imbas dan kuiz. Disediakan oleh Cikgu Muhammad Rabbani, SMK Dato' Undang Musa Al-Haj, Jelebu.",
+  "lang": "ms",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1B45C2",
+  "background_color": "#1B45C2",
+  "icons": [
+    {
+      "src": "ikon-sejarah-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ikon-sejarah-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ikon-sejarah-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
